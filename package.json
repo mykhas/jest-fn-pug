@@ -1,0 +1,10 @@
+{
+  "name": "jest-fn-pug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mykhailo Kobernyk",
+  "license": "MIT",
+  "dependencies": {
+    "fn-pug": "github:scoutgg/fn-pug"
+  }
+}
